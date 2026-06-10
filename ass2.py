@@ -95,7 +95,7 @@ else:
 # 100–300 units → Medium Usage
 # Above 300 units → High Usage
 
-bill=int(input("enter your attendance"))
+bill=int(input("enter your units usage"))
 if bill>300:
     print("high usage")
 if bill<=300 and bill>=100:

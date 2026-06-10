@@ -48,9 +48,15 @@ print("hello",name,"! you are",age,"years old")
 
 # 2. Sum of Numbers:
 # ○ Write a program that asks the user to input two numbers and prints their sum.
+
+no1=int(input("enter first no."))
+no2=int(input("enter second no."))
+print(no1+no2)
+
 # 3. Type-Casting in Input:
 # ○ Write a program to take two numbers as input (both in string format), convert them to
 # integers, and print their product.
+
 
 # 4. Custom Conversion:
 # ○ Write a program that asks the user for a temperature in Celsius, converts it to Fahrenheit,

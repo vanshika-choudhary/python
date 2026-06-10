@@ -1,4 +1,4 @@
-#3 . Comparison Operator  True/ False
+#Comparison Operator  True/ False
 # > , < , >=, <=, ==, != 
 
 a = 12
@@ -11,7 +11,7 @@ print(a <= c)
 print(a == c)
 print(c != a)
 
-# 4). Logical Operator  and or not True/False
+#Logical Operator  and or not
 a = 7
 b = 13
 c = -1
@@ -21,3 +21,4 @@ print(a == e and d <= c)
 print(b <= d or e == a)
 print(a != e or c >= d)
 print(not((c >= e and e != a) and (a > b and d <= e)))
+
